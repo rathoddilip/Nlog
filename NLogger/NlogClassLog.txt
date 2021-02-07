@@ -1,0 +1,4 @@
+﻿2021-02-07 14:24:57.9919|ERROR|NLogger.Program|System.DivideByZeroException: Attempted to divide by zero.
+   at NLogger.Program.Main(String[] args) in C:\Users\Dilip Rathod\Desktop\Bridgelab\BatchDotNetFellowship-015\NLogger\NLogger\Program.cs:line 13
+2021-02-07 14:35:49.4166|ERROR|NLogger.Program|System.DivideByZeroException: Attempted to divide by zero.
+   at NLogger.Program.Main(String[] args) in C:\Users\Dilip Rathod\Desktop\Bridgelab\BatchDotNetFellowship-015\NLogger\NLogger\Program.cs:line 13
